@@ -1,0 +1,10 @@
+.menu__link {
+  color: #ffffff;
+  line-height: normal;
+  text-decoration: none;
+}
+
+.menu__link:hover {
+  transition: 500ms;
+  color: #F4EF5E;
+}

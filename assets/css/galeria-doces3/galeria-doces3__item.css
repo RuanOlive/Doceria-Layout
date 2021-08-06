@@ -1,0 +1,30 @@
+.galeria-doces3__item {
+  width: 23.80%;
+  height: 200px;
+  background-position: center;
+  display: inline-block;
+  background-size: cover;
+  margin-left: .5%;
+  margin-right: .5%;
+}
+
+.galeria-doces3__item:nth-child(1) {
+  margin-left: 0;
+  background-image: url("../../img/galeria9.jpg");
+}
+
+
+.galeria-doces3__item:nth-child(2) {
+  background-image: url("../../img/galeria10.jpg");
+}
+
+
+.galeria-doces3__item:nth-child(3) {
+  background-image: url("../../img/galeria11.jpg");
+}
+
+
+.galeria-doces3__item:nth-child(4) {
+  background-image: url("../../img/galeria12.jpg");
+  margin-right: 0;
+}

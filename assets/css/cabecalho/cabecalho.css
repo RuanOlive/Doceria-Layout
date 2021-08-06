@@ -1,0 +1,7 @@
+.cabecalho {
+  padding-top: 20px;
+  position: fixed;
+  background-color: #006599;
+  height: 100vh;
+  width: 300px;
+}

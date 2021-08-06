@@ -1,0 +1,11 @@
+.sessao {
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.sessao::after {
+  content: "";
+  display: block;
+  clear: both;
+  margin-bottom: 100px;
+}

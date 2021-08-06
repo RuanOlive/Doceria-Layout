@@ -1,0 +1,14 @@
+.formulario .formulario__input, .formulario__textarea {
+  width: 522px;
+  display: block;
+  font-size: 1rem;
+  padding: 10px;
+  font-family: 'Open sans', sans-serif;
+  margin-bottom: 20px;
+  border: 1px solid rgb(0, 101, 153);
+}
+
+.formulario  .formulario__input::placeholder, .formulario__textarea::placeholder {
+  color: rgb(0, 101, 153);
+}
+

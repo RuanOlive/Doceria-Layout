@@ -1,0 +1,24 @@
+.galeria-doces2__item {
+  width: 32.3%;
+  height: 200px;
+  display: inline-block;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-right: .5%;
+  margin-left: .5%;
+}
+
+.galeria-doces2__item:nth-child(1) {
+  margin-left: 0;
+  background-image: url("../../img/galeria6.jpg");
+}
+
+.galeria-doces2__item:nth-child(2) {
+  background-image: url("../../img/galeria7.jpg");
+}
+
+.galeria-doces2__item:nth-child(3) {
+  background-image: url("../../img/galeria8.jpg");
+  margin-right: 0;
+}
